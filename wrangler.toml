@@ -1,0 +1,5 @@
+# Utilisé seulement si vous déployez avec la ligne de commande (npm run deploy).
+# Avec l'intégration GitHub de Cloudflare Pages, ce fichier n'est pas nécessaire.
+name = "shopy-trend"
+pages_build_output_dir = "./dist"
+compatibility_date = "2024-11-01"
